@@ -1,10 +1,10 @@
 {
-  "name": "lesson-8",
+  "name": "lesson-12",
   "version": "1.0.0",
   "description": "",
   "main": "server.js",
   "scripts": {
-    "start": "nodemon server",
+    "start": "node server",
     "dev": "nodemon server"
   },
   "keywords": [],
@@ -18,6 +18,7 @@
     "dotenv": "^16.3.1",
     "express": "^4.18.2",
     "jsonwebtoken": "^9.0.2",
+    "mongoose": "^7.6.2",
     "uuid": "^9.0.1"
   },
   "devDependencies": {
