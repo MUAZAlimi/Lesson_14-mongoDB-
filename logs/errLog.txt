@@ -1,0 +1,215 @@
+2023-10-06	14:26:54	46ea4b4f-5337-4aa8-9e90-ffe79e5443d4	ReferenceError	err is not defined
+2023-10-06	14:26:56	5ef0a3bf-bd2e-40f7-a3d4-702b27e1701d	ReferenceError	err is not defined
+2023-10-06	14:38:51	394cfc0b-c2c0-4069-a537-68b9c5c6ec51	ReferenceError	err is not defined
+2023-10-06	14:38:52	46e28fc8-a07d-423d-84ed-4a9754c5c6c6	ReferenceError	err is not defined
+2023-10-06	14:38:53	64a422d5-4cdc-49ab-bd8f-98738d2679d8	ReferenceError	err is not defined
+2023-10-06	14:42:51	9c3efa89-996c-4248-9163-dcf342668e58	Error	Page not found
+2023-10-06	14:42:52	f9553be4-b1da-423f-a304-3227371e714e	Error	Page not found
+2023-10-06	14:42:53	c96a3a64-e969-4453-ad92-1d3381fe9b78	Error	Page not found
+2023-10-06	14:42:54	0b5307e9-1f7f-4e7f-b5fa-20b3185b62d8	Error	Page not found
+2023-10-06	14:43:23	c6f81496-dc45-4910-bfae-aa935b0cde91	Error	Page not found
+2023-10-06	14:44:14	66f2b63d-4723-422e-b7da-bc09892e8bd0	Error	Page not found
+2023-10-06	14:44:16	f4699fe7-30b2-4144-884b-a88f7623c85f	Error	Page not found
+2023-10-06	14:44:31	46aa1250-88cc-4e09-a1d2-673ac4941a6e	Error	Page not found
+2023-10-06	14:45:51	0d3946f4-8d32-4106-86a5-f2312573f236	Error	Page not found
+2023-10-06	14:46:07	25bc5042-c15b-49ad-8fec-455f920060bd	Error	Page not found
+2023-10-06	14:46:55	1bfb3c2e-f523-4305-9b2e-3dc7f5ff95db	Error	Page not found
+2023-10-06	15:39:42	7d6ebfb7-4d66-4b9b-88ec-d4b2cc2d2484	Error	ENOENT: no such file or directory, access 'C:\Users\ROCCO\Desktop\My_Web\NODE.js\LESSON 05\views\favicon.ico'
+2023-10-06	15:40:00	7f6d3dae-5d64-4b44-9d14-1169b41f6183	Error	ENOENT: no such file or directory, access 'C:\Users\ROCCO\Desktop\My_Web\NODE.js\LESSON 05\views\subdir.html'
+2023-10-06	15:40:01	a26ac90f-79ca-4b3b-a02f-8cdd449ba3d7	Error	ENOENT: no such file or directory, access 'C:\Users\ROCCO\Desktop\My_Web\NODE.js\LESSON 05\views\favicon.ico'
+2023-10-06	15:40:56	a8355277-903d-4763-a53b-c838a15eec22	Error	ENOENT: no such file or directory, access 'C:\Users\ROCCO\Desktop\My_Web\NODE.js\LESSON 05\views\views\new-page.html'
+2023-10-06	15:40:57	916bdf60-5736-4dd7-941e-d65424d1336a	Error	ENOENT: no such file or directory, access 'C:\Users\ROCCO\Desktop\My_Web\NODE.js\LESSON 05\views\favicon.ico'
+2023-10-06	15:41:11	f702ca48-b41c-486c-9322-c8bf4c7a1341	Error	ENOENT: no such file or directory, access 'C:\Users\ROCCO\Desktop\My_Web\NODE.js\LESSON 05\views\views\new-page.html'
+2023-10-06	15:41:11	f31cbab3-3166-4a78-9659-200a8faa55dc	Error	ENOENT: no such file or directory, access 'C:\Users\ROCCO\Desktop\My_Web\NODE.js\LESSON 05\views\favicon.ico'
+2023-10-06	15:41:34	066ed3dc-2f1d-4415-882b-15e5375254e6	Error	ENOENT: no such file or directory, access 'C:\Users\ROCCO\Desktop\My_Web\NODE.js\LESSON 05\views\img\My-final-Image.png'
+2023-10-06	15:41:34	6e483bbb-c31b-4a03-9720-60974fe7d4a3	Error	ENOENT: no such file or directory, access 'C:\Users\ROCCO\Desktop\My_Web\NODE.js\LESSON 05\views\favicon.ico'
+2023-10-06	15:41:56	2a5ac469-f084-4f43-96f5-7e74dd8416ac	Error	ENOENT: no such file or directory, access 'C:\Users\ROCCO\Desktop\My_Web\NODE.js\LESSON 05\views\subdir.html'
+2023-10-06	15:41:57	fe06174b-d61c-4ed2-be79-4978f4ddccef	Error	ENOENT: no such file or directory, access 'C:\Users\ROCCO\Desktop\My_Web\NODE.js\LESSON 05\views\favicon.ico'
+2023-10-06	15:42:10	8b4c850a-bb92-4c08-83bb-9e0c86a8950d	Error	ENOENT: no such file or directory, access 'C:\Users\ROCCO\Desktop\My_Web\NODE.js\LESSON 05\views\data\data.json'
+2023-10-06	15:42:11	57d10175-283f-4b87-ae53-433fc2e41cdb	Error	ENOENT: no such file or directory, access 'C:\Users\ROCCO\Desktop\My_Web\NODE.js\LESSON 05\views\favicon.ico'
+2023-10-06	15:42:20	6af210af-2ec0-4560-af42-1ab60a83cadd	Error	ENOENT: no such file or directory, access 'C:\Users\ROCCO\Desktop\My_Web\NODE.js\LESSON 05\views\data.json'
+2023-10-06	15:42:20	926b366d-bcb2-4546-a47c-4a315cbc29cd	Error	ENOENT: no such file or directory, access 'C:\Users\ROCCO\Desktop\My_Web\NODE.js\LESSON 05\views\favicon.ico'
+2023-10-06	15:42:29	32df8aa2-3fba-4149-8a3b-a7941a7015cd	Error	ENOENT: no such file or directory, access 'C:\Users\ROCCO\Desktop\My_Web\NODE.js\LESSON 05\views\data\data.json'
+2023-10-06	15:42:29	3a3ba836-0dca-46b9-9e38-1aadd09c4c70	Error	ENOENT: no such file or directory, access 'C:\Users\ROCCO\Desktop\My_Web\NODE.js\LESSON 05\views\favicon.ico'
+2023-10-06	15:45:16	dfbfe0d4-081c-463d-b0af-d7bd998add1a	Error	ENOENT: no such file or directory, access 'C:\Users\ROCCO\Desktop\My_Web\NODE.js\LESSON 05\views\favicon.ico'
+2023-10-06	15:46:22	07cbe520-afac-4c5c-b2c9-2ebf707833ae	Error	ENOENT: no such file or directory, access 'C:\Users\ROCCO\Desktop\My_Web\NODE.js\LESSON 05\favicon.ico'
+2023-10-06	15:46:28	b7616a37-73e1-47dc-8e70-4b71b407dffb	Error	ENOENT: no such file or directory, access 'C:\Users\ROCCO\Desktop\My_Web\NODE.js\LESSON 05\subdir.html'
+2023-10-06	15:46:29	75c814a8-ba88-4369-bc62-e24f3e31f75e	Error	ENOENT: no such file or directory, access 'C:\Users\ROCCO\Desktop\My_Web\NODE.js\LESSON 05\favicon.ico'
+2023-10-06	15:46:33	0ded3fa0-91d0-42e5-8cbc-4ef7b1a0b664	Error	ENOENT: no such file or directory, access 'C:\Users\ROCCO\Desktop\My_Web\NODE.js\LESSON 05\favicon.ico'
+2023-10-06	15:46:36	3c6602d4-c0b0-46c8-a927-5b095eb01f57	Error	ENOENT: no such file or directory, access 'C:\Users\ROCCO\Desktop\My_Web\NODE.js\LESSON 05\subdir.html'
+2023-10-06	15:47:02	c9493d6a-ddb9-4cf6-b858-e054f1e84fbf	Error	ENOENT: no such file or directory, access 'C:\Users\ROCCO\Desktop\My_Web\NODE.js\LESSON 05\favicon.ico'
+2023-10-06	15:47:14	f945106d-a130-49d6-b203-fb43f406af3c	Error	ENOENT: no such file or directory, access 'C:\Users\ROCCO\Desktop\My_Web\NODE.js\LESSON 05\new-page.html'
+2023-10-06	15:47:14	c78187f5-e336-401a-96d5-520dc13ac3d9	Error	ENOENT: no such file or directory, access 'C:\Users\ROCCO\Desktop\My_Web\NODE.js\LESSON 05\favicon.ico'
+2023-10-06	15:47:35	4c19b665-203a-4291-9a9f-37ef615720a4	Error	ENOENT: no such file or directory, access 'C:\Users\ROCCO\Desktop\My_Web\NODE.js\LESSON 05\new-page.html'
+2023-10-06	15:47:36	27fe765f-de77-46e9-9a6c-424ed6a9c127	Error	ENOENT: no such file or directory, access 'C:\Users\ROCCO\Desktop\My_Web\NODE.js\LESSON 05\favicon.ico'
+2023-10-06	15:53:46	94eeaac6-354c-42cd-a60b-2b74e7ed15b8	Error	ENOENT: no such file or directory, access 'C:\Users\ROCCO\Desktop\My_Web\NODE.js\LESSON 05\favicon.ico'
+2023-10-06	15:53:57	d2b7cbb3-1d46-496e-be7f-20becc1d2261	Error	ENOENT: no such file or directory, access 'C:\Users\ROCCO\Desktop\My_Web\NODE.js\LESSON 05\favicon.ico'
+2023-10-06	15:54:05	eb56a669-d271-4a6d-8ae0-3eb7fe6ac03f	Error	ENOENT: no such file or directory, access 'C:\Users\ROCCO\Desktop\My_Web\NODE.js\LESSON 05\new-page.html'
+2023-10-06	15:54:06	bb43403a-e101-4c7e-8d53-03b5618b0524	Error	ENOENT: no such file or directory, access 'C:\Users\ROCCO\Desktop\My_Web\NODE.js\LESSON 05\favicon.ico'
+2023-10-06	15:54:26	3aebbca4-38a7-4316-9cd7-bd7ad9dbc0d7	Error	ENOENT: no such file or directory, access 'C:\Users\ROCCO\Desktop\My_Web\NODE.js\LESSON 05\favicon.ico'
+2023-10-06	16:04:02	f8434dbc-90e2-4fde-9701-759cdd0e2bc9	Error	ENOENT: no such file or directory, access 'C:\Users\ROCCO\Desktop\My_Web\NODE.js\LESSON 05\favicon.ico'
+2023-10-06	16:04:10	8b068b58-8434-43bc-802c-543d6e9f0e7b	Error	ENOENT: no such file or directory, access 'C:\Users\ROCCO\Desktop\My_Web\NODE.js\LESSON 05\favicon.ico'
+2023-10-06	16:04:17	dc1ee715-d427-43d5-910f-bd450d97e348	Error	ENOENT: no such file or directory, access 'C:\Users\ROCCO\Desktop\My_Web\NODE.js\LESSON 05\new-page.html'
+2023-10-06	16:04:18	e450cd6c-d365-441b-a3db-f08bfdf1f820	Error	ENOENT: no such file or directory, access 'C:\Users\ROCCO\Desktop\My_Web\NODE.js\LESSON 05\favicon.ico'
+2023-10-06	16:04:24	900ff7ea-ef29-4716-a994-370b20566fef	Error	ENOENT: no such file or directory, access 'C:\Users\ROCCO\Desktop\My_Web\NODE.js\LESSON 05\new-page.html'
+2023-10-06	16:04:24	2b8dcd52-0ec6-4875-b2d0-9ec27cd518a1	Error	ENOENT: no such file or directory, access 'C:\Users\ROCCO\Desktop\My_Web\NODE.js\LESSON 05\favicon.ico'
+2023-10-06	16:04:28	a4509285-3de8-47cc-ba41-177d1d8dbb61	Error	ENOENT: no such file or directory, access 'C:\Users\ROCCO\Desktop\My_Web\NODE.js\LESSON 05\new-page.html'
+2023-10-06	16:04:29	678fac13-e119-4239-aef9-224694ebf236	Error	ENOENT: no such file or directory, access 'C:\Users\ROCCO\Desktop\My_Web\NODE.js\LESSON 05\favicon.ico'
+2023-10-06	16:05:03	dd57e4ee-05f9-4d60-a71a-6a045bca6554	Error	ENOENT: no such file or directory, access 'C:\Users\ROCCO\Desktop\My_Web\NODE.js\LESSON 05\favicon.ico'
+2023-10-06	16:05:09	a95963cc-3986-4bcd-bde1-08a1b856b622	Error	ENOENT: no such file or directory, access 'C:\Users\ROCCO\Desktop\My_Web\NODE.js\LESSON 05\new-page.html'
+2023-10-06	16:05:09	e3335b7d-c226-498f-adaf-1b3c9c6aa26a	Error	ENOENT: no such file or directory, access 'C:\Users\ROCCO\Desktop\My_Web\NODE.js\LESSON 05\favicon.ico'
+2023-10-06	16:05:11	ffc82b22-4c76-4fb4-9cb0-be2fad0c8182	Error	ENOENT: no such file or directory, access 'C:\Users\ROCCO\Desktop\My_Web\NODE.js\LESSON 05\new-page.html'
+2023-10-06	16:05:12	12ad21ef-d80b-4838-92e7-8e446aa8c8f5	Error	ENOENT: no such file or directory, access 'C:\Users\ROCCO\Desktop\My_Web\NODE.js\LESSON 05\favicon.ico'
+2023-10-06	16:05:16	293035e4-e4f6-4e92-ba2c-ada1af9ccc81	Error	ENOENT: no such file or directory, access 'C:\Users\ROCCO\Desktop\My_Web\NODE.js\LESSON 05\new-page.html'
+2023-10-06	16:05:16	391a86de-e080-4908-a86a-d0ad872c30bb	Error	ENOENT: no such file or directory, access 'C:\Users\ROCCO\Desktop\My_Web\NODE.js\LESSON 05\favicon.ico'
+2023-10-06	16:23:10	26d8c9ef-7ee1-482a-8658-8f98cfc19e31	Error	ENOENT: no such file or directory, access 'C:\Users\ROCCO\Desktop\My_Web\NODE.js\LESSON 05\new-page.html'
+2023-10-06	16:23:11	ff287ca4-dfc6-4a3d-8278-2b5538997e0f	Error	ENOENT: no such file or directory, access 'C:\Users\ROCCO\Desktop\My_Web\NODE.js\LESSON 05\favicon.ico'
+2023-10-06	16:23:50	8b7ad16e-cebd-4d7d-9e80-2b8025cced19	Error	ENOENT: no such file or directory, access 'C:\Users\ROCCO\Desktop\My_Web\NODE.js\LESSON 05\new-page.html'
+2023-10-06	16:23:50	5de5f402-3399-487d-8f97-8879eb27aa1e	Error	ENOENT: no such file or directory, access 'C:\Users\ROCCO\Desktop\My_Web\NODE.js\LESSON 05\favicon.ico'
+2023-10-06	16:24:16	6553c2be-1814-4546-86a3-edd6e6540c3a	Error	ENOENT: no such file or directory, access 'C:\Users\ROCCO\Desktop\My_Web\NODE.js\LESSON 05\new-page.html'
+2023-10-06	16:24:17	4c6f2c68-b468-4696-bacc-2d82aa6bb3be	Error	ENOENT: no such file or directory, access 'C:\Users\ROCCO\Desktop\My_Web\NODE.js\LESSON 05\favicon.ico'
+2023-10-06	16:24:34	068e8c09-5409-45cd-b669-e1aef2c8620e	Error	ENOENT: no such file or directory, access 'C:\Users\ROCCO\Desktop\My_Web\NODE.js\LESSON 05\favicon.ico'
+2023-10-06	16:24:57	e50d08e0-ee27-4f46-bd03-2b40f678e84a	Error	ENOENT: no such file or directory, access 'C:\Users\ROCCO\Desktop\My_Web\NODE.js\LESSON 05\new-page.html'
+2023-10-06	16:24:58	c79690b5-79b0-4d13-8552-662b424f5c72	Error	ENOENT: no such file or directory, access 'C:\Users\ROCCO\Desktop\My_Web\NODE.js\LESSON 05\favicon.ico'
+2023-10-06	16:25:44	25076016-c849-4d47-8ce1-a3408b3c14e1	Error	ENOENT: no such file or directory, access 'C:\Users\ROCCO\Desktop\My_Web\NODE.js\LESSON 05\new-page.html'
+2023-10-06	16:25:45	555d729d-807e-4edf-a326-ce55484e827d	Error	ENOENT: no such file or directory, access 'C:\Users\ROCCO\Desktop\My_Web\NODE.js\LESSON 05\favicon.ico'
+2023-10-06	16:26:00	8da8d43c-5f5e-4eba-8383-1b1fe95f0a31	Error	ENOENT: no such file or directory, access 'C:\Users\ROCCO\Desktop\My_Web\NODE.js\LESSON 05\favicon.ico'
+2023-10-06	16:26:33	0d4f84a2-2f98-440a-bde5-ea9d3ed1fae5	Error	ENOENT: no such file or directory, access 'C:\Users\ROCCO\Desktop\My_Web\NODE.js\LESSON 05\new-page.html'
+2023-10-06	16:26:34	a3c2dc10-ba47-4c8e-ae09-8c956f770b51	Error	ENOENT: no such file or directory, access 'C:\Users\ROCCO\Desktop\My_Web\NODE.js\LESSON 05\favicon.ico'
+2023-10-06	16:27:06	c19df2e8-2495-4213-b1f2-2cb9b21ef0b1	Error	ENOENT: no such file or directory, access 'C:\Users\ROCCO\Desktop\My_Web\NODE.js\LESSON 05\new-page.html'
+2023-10-06	16:27:06	9de3aadd-bcef-41e0-bb87-d42576422d40	Error	ENOENT: no such file or directory, access 'C:\Users\ROCCO\Desktop\My_Web\NODE.js\LESSON 05\favicon.ico'
+2023-10-06	16:27:45	5bff581e-1c4c-43c4-9212-1b5c07928cef	Error	ENOENT: no such file or directory, access 'C:\Users\ROCCO\Desktop\My_Web\NODE.js\LESSON 05\favicon.ico'
+2023-10-06	16:28:20	4c93968f-0af2-4abb-83f2-00304aec7126	Error	ENOENT: no such file or directory, access 'C:\Users\ROCCO\Desktop\My_Web\NODE.js\LESSON 05\subdir.html'
+2023-10-06	16:28:21	66a66c9b-8e5f-4bb1-9454-9fe6c2487ad0	Error	ENOENT: no such file or directory, access 'C:\Users\ROCCO\Desktop\My_Web\NODE.js\LESSON 05\favicon.ico'
+2023-10-06	16:28:25	7ed7c7d8-7dbd-45ad-810b-02665b25556e	Error	ENOENT: no such file or directory, access 'C:\Users\ROCCO\Desktop\My_Web\NODE.js\LESSON 05\favicon.ico'
+2023-10-06	16:28:33	f1127e29-573d-4f2c-bb8f-ff59a67383df	Error	ENOENT: no such file or directory, access 'C:\Users\ROCCO\Desktop\My_Web\NODE.js\LESSON 05\subdi.html'
+2023-10-06	16:28:34	1065d354-1efd-470b-ac3d-b1187329ed96	Error	ENOENT: no such file or directory, access 'C:\Users\ROCCO\Desktop\My_Web\NODE.js\LESSON 05\favicon.ico'
+2023-10-06	16:37:00	884193e9-3c8a-44b1-9dda-aec59d2f70f1	Error	ENOENT: no such file or directory, access 'C:\Users\ROCCO\Desktop\My_Web\NODE.js\LESSON 05\subdi.html'
+2023-10-06	16:37:02	aa4dffd4-357c-42e0-a32a-0925b55ab358	Error	ENOENT: no such file or directory, access 'C:\Users\ROCCO\Desktop\My_Web\NODE.js\LESSON 05\favicon.ico'
+2023-10-06	16:37:40	8e1235ed-7712-4a52-972d-b1a209c7a529	Error	ENOENT: no such file or directory, access 'C:\Users\ROCCO\Desktop\My_Web\NODE.js\LESSON 05\subdi.html'
+2023-10-06	16:37:41	d31c72ba-7551-474d-bd81-2d665d91e4d9	Error	ENOENT: no such file or directory, access 'C:\Users\ROCCO\Desktop\My_Web\NODE.js\LESSON 05\favicon.ico'
+2023-10-06	16:38:17	d0391085-18a0-4582-b209-76fb3ef96ae4	Error	ENOENT: no such file or directory, access 'C:\Users\ROCCO\Desktop\My_Web\NODE.js\LESSON 05\favicon.ico'
+2023-10-06	16:38:28	80316843-76c3-40b7-98d7-b9f7b8596460	Error	ENOENT: no such file or directory, access 'C:\Users\ROCCO\Desktop\My_Web\NODE.js\LESSON 05\favicon.ico'
+2023-10-06	16:38:34	1d0eda41-1ad7-4166-be6f-5be20fde8ab6	Error	ENOENT: no such file or directory, access 'C:\Users\ROCCO\Desktop\My_Web\NODE.js\LESSON 05\new-page.html'
+2023-10-06	16:38:35	b7fdb75f-7f5f-4a91-b164-7a2c51fe78a1	Error	ENOENT: no such file or directory, access 'C:\Users\ROCCO\Desktop\My_Web\NODE.js\LESSON 05\favicon.ico'
+2023-10-06	16:39:10	bf4bd669-2dee-4c1a-a102-7438d9295308	Error	ENOENT: no such file or directory, access 'C:\Users\ROCCO\Desktop\My_Web\NODE.js\LESSON 05\new-page.html'
+2023-10-06	16:39:10	8e055f7c-4a3e-469f-a24b-a9d7fe636639	Error	ENOENT: no such file or directory, access 'C:\Users\ROCCO\Desktop\My_Web\NODE.js\LESSON 05\favicon.ico'
+2023-10-06	17:05:57	706fa8fb-b9b8-4a01-8312-cfc7aeb160b0	Error	ENOENT: no such file or directory, access 'C:\Users\ROCCO\Desktop\My_Web\NODE.js\LESSON 05\new-page.html'
+2023-10-06	17:05:59	5b0185fb-9949-4fdf-af72-7010dd2eb951	Error	ENOENT: no such file or directory, access 'C:\Users\ROCCO\Desktop\My_Web\NODE.js\LESSON 05\favicon.ico'
+2023-10-06	17:06:06	2b9bfbad-4dc1-4ff6-b15e-ee94443fda3e	Error	ENOENT: no such file or directory, access 'C:\Users\ROCCO\Desktop\My_Web\NODE.js\LESSON 05\new-page.html'
+2023-10-06	17:06:07	b14dbf58-d661-425a-b8ca-b88aa803ef12	Error	ENOENT: no such file or directory, access 'C:\Users\ROCCO\Desktop\My_Web\NODE.js\LESSON 05\favicon.ico'
+2023-10-06	17:12:55	02b9dec8-6a14-4fc4-8b0b-b18a117a3928	Error	ENOENT: no such file or directory, access 'C:\Users\ROCCO\Desktop\My_Web\NODE.js\LESSON 05\old\new-page.html'
+2023-10-06	17:12:55	d38a3d89-105f-40d1-899b-653419511c9d	Error	ENOENT: no such file or directory, access 'C:\Users\ROCCO\Desktop\My_Web\NODE.js\LESSON 05\favicon.ico'
+2023-10-06	17:13:10	4a455256-837e-40bd-a60f-098ddc7bec18	Error	ENOENT: no such file or directory, access 'C:\Users\ROCCO\Desktop\My_Web\NODE.js\LESSON 05\favicon.ico'
+2023-10-06	17:13:29	8398fd39-e885-4600-bfe1-2f37514ff8f0	Error	ENOENT: no such file or directory, access 'C:\Users\ROCCO\Desktop\My_Web\NODE.js\LESSON 05\favicon.ico'
+2023-10-06	17:13:34	36d1d22b-033b-415e-acb9-ac71d7c8bfe3	Error	ENOENT: no such file or directory, access 'C:\Users\ROCCO\Desktop\My_Web\NODE.js\LESSON 05\favicon.ico'
+2023-10-06	17:13:42	ba1f3f2e-3502-40a1-ad61-57e0c367305a	Error	ENOENT: no such file or directory, access 'C:\Users\ROCCO\Desktop\My_Web\NODE.js\LESSON 05\favicon.ico'
+2023-10-06	17:13:48	7c9ee9dc-9c8d-42a3-b9c8-c5b982d55457	Error	ENOENT: no such file or directory, access 'C:\Users\ROCCO\Desktop\My_Web\NODE.js\LESSON 05\favicon.ico'
+2023-10-06	17:13:52	c44b7e55-1662-485e-b5a0-fde31edfd771	Error	ENOENT: no such file or directory, access 'C:\Users\ROCCO\Desktop\My_Web\NODE.js\LESSON 05\views\new-pag.html'
+2023-10-06	17:13:53	24a36a0b-1a8c-4ed7-8e2b-6ff1fa62ede6	Error	ENOENT: no such file or directory, access 'C:\Users\ROCCO\Desktop\My_Web\NODE.js\LESSON 05\favicon.ico'
+2023-10-06	17:19:51	bcbb8ea5-b909-45bd-9d81-10d28494b342	Error	ENOENT: no such file or directory, access 'C:\Users\ROCCO\Desktop\My_Web\NODE.js\LESSON 05\new-page.html'
+2023-10-06	17:19:53	0348fd87-51ba-4d52-ba50-06a26dd49f02	Error	ENOENT: no such file or directory, access 'C:\Users\ROCCO\Desktop\My_Web\NODE.js\LESSON 05\favicon.ico'
+2023-10-06	17:20:36	a6682a42-3e8a-4622-bfef-dd312d87dfc3	Error	ENOENT: no such file or directory, access 'C:\Users\ROCCO\Desktop\My_Web\NODE.js\LESSON 05\favicon.ico'
+2023-10-06	17:20:50	a629e3f0-0995-4bc4-bf90-2686d6b272b5	Error	ENOENT: no such file or directory, access 'C:\Users\ROCCO\Desktop\My_Web\NODE.js\LESSON 05\favicon.ico'
+2023-10-06	17:20:57	91bff510-3141-4159-bcc3-8e05be486219	Error	ENOENT: no such file or directory, access 'C:\Users\ROCCO\Desktop\My_Web\NODE.js\LESSON 05\favicon.ico'
+2023-10-06	17:21:07	d77d41ec-6deb-4400-a45e-361da356bf22	Error	ENOENT: no such file or directory, access 'C:\Users\ROCCO\Desktop\My_Web\NODE.js\LESSON 05\new-page.html'
+2023-10-06	17:21:08	ca5f9d42-d59e-463c-ba0a-d9d9cb9cf6b8	Error	ENOENT: no such file or directory, access 'C:\Users\ROCCO\Desktop\My_Web\NODE.js\LESSON 05\favicon.ico'
+2023-10-06	17:21:15	bf3ba312-cda9-43d8-aed1-1c1d21429486	Error	ENOENT: no such file or directory, access 'C:\Users\ROCCO\Desktop\My_Web\NODE.js\LESSON 05\favicon.ico'
+2023-10-06	17:22:05	a6da21cf-1cd6-41e2-a9c1-36a1c3b6b82a	Error	ENOENT: no such file or directory, access 'C:\Users\ROCCO\Desktop\My_Web\NODE.js\LESSON 05\favicon.ico'
+2023-10-06	17:22:11	d6872dfa-dc1b-4d19-8fb2-b2ff3b9a686b	Error	ENOENT: no such file or directory, access 'C:\Users\ROCCO\Desktop\My_Web\NODE.js\LESSON 05\favicon.ico'
+2023-10-06	17:22:24	849b4806-3cb0-4c37-bf3a-2ce62aaa7f38	Error	ENOENT: no such file or directory, access 'C:\Users\ROCCO\Desktop\My_Web\NODE.js\LESSON 05\favicon.ico'
+2023-10-06	17:22:32	91a61db4-0cf3-48c8-8d97-680502ffc6a7	Error	ENOENT: no such file or directory, access 'C:\Users\ROCCO\Desktop\My_Web\NODE.js\LESSON 05\favicon.ico'
+2023-10-06	17:22:39	b77de26c-679b-4018-93de-344896f69480	Error	ENOENT: no such file or directory, access 'C:\Users\ROCCO\Desktop\My_Web\NODE.js\LESSON 05\new-page.html'
+2023-10-06	17:22:40	0e717108-e2af-4525-9007-ff0276c1f6a0	Error	ENOENT: no such file or directory, access 'C:\Users\ROCCO\Desktop\My_Web\NODE.js\LESSON 05\favicon.ico'
+2023-10-06	17:22:44	9561bd57-80d7-444b-ae7f-841a8f34f1a6	Error	ENOENT: no such file or directory, access 'C:\Users\ROCCO\Desktop\My_Web\NODE.js\LESSON 05\favicon.ico'
+2023-10-06	17:22:53	e88b4ee2-5d21-40c9-bc94-ca37397a4c99	Error	ENOENT: no such file or directory, access 'C:\Users\ROCCO\Desktop\My_Web\NODE.js\LESSON 05\new-page.html'
+2023-10-06	17:22:54	9da046c5-e204-4626-8c8c-27eecf711650	Error	ENOENT: no such file or directory, access 'C:\Users\ROCCO\Desktop\My_Web\NODE.js\LESSON 05\favicon.ico'
+2023-10-06	17:22:59	c8051c58-e6d1-4da9-9037-6434b67767ef	Error	ENOENT: no such file or directory, access 'C:\Users\ROCCO\Desktop\My_Web\NODE.js\LESSON 05\favicon.ico'
+2023-10-06	17:23:13	b461ef3d-6f16-4643-8657-991ae7be7301	Error	ENOENT: no such file or directory, access 'C:\Users\ROCCO\Desktop\My_Web\NODE.js\LESSON 05\favicon.ico'
+2023-10-06	17:23:18	4d61c316-ed10-4529-a1c6-5a764a65bf6d	Error	ENOENT: no such file or directory, access 'C:\Users\ROCCO\Desktop\My_Web\NODE.js\LESSON 05\favicon.ico'
+2023-10-06	17:23:44	4666fdb3-b5a5-4cd8-a4ec-5d864f463325	Error	ENOENT: no such file or directory, access 'C:\Users\ROCCO\Desktop\My_Web\NODE.js\LESSON 05\favicon.ico'
+2023-10-06	17:24:18	e987d04f-49fa-41c0-b5b5-bf434738bcd2	Error	ENOENT: no such file or directory, access 'C:\Users\ROCCO\Desktop\My_Web\NODE.js\LESSON 05\favicon.ico'
+2023-10-06	17:24:23	0f55c226-2d6c-4dc9-8560-55165b2bb69d	Error	ENOENT: no such file or directory, access 'C:\Users\ROCCO\Desktop\My_Web\NODE.js\LESSON 05\new-page.html'
+2023-10-06	17:24:24	4a7aaf1e-d0e8-40a8-8c00-5998d328687d	Error	ENOENT: no such file or directory, access 'C:\Users\ROCCO\Desktop\My_Web\NODE.js\LESSON 05\favicon.ico'
+2023-10-06	17:25:10	be2f56ca-fe82-4c7f-a217-a258359ce08a	Error	ENOENT: no such file or directory, access 'C:\Users\ROCCO\Desktop\My_Web\NODE.js\LESSON 05\favicon.ico'
+2023-10-06	17:25:46	731ba520-0d6e-415a-a690-e2d40ba426e3	Error	ENOENT: no such file or directory, access 'C:\Users\ROCCO\Desktop\My_Web\NODE.js\LESSON 05\favicon.ico'
+2023-10-06	17:25:53	2f38af96-d783-45cc-8862-9fc06cc7a147	Error	ENOENT: no such file or directory, access 'C:\Users\ROCCO\Desktop\My_Web\NODE.js\LESSON 05\favicon.ico'
+2023-10-06	17:26:04	3dc38e57-086c-40c4-b0ab-a10cc869009a	Error	ENOENT: no such file or directory, access 'C:\Users\ROCCO\Desktop\My_Web\NODE.js\LESSON 05\favicon.ico'
+2023-10-06	17:26:28	156c77bd-e6e8-4c0c-b373-7c57f3ff41d6	Error	ENOENT: no such file or directory, access 'C:\Users\ROCCO\Desktop\My_Web\NODE.js\LESSON 05\favicon.ico'
+2023-10-06	17:26:56	bb215019-b7bb-40b9-8463-80ef1621467c	Error	ENOENT: no such file or directory, access 'C:\Users\ROCCO\Desktop\My_Web\NODE.js\LESSON 05\new-page.html'
+2023-10-06	17:26:58	83c0b717-20bb-4b07-a8d1-943353a48b8b	Error	ENOENT: no such file or directory, access 'C:\Users\ROCCO\Desktop\My_Web\NODE.js\LESSON 05\favicon.ico'
+2023-10-06	17:27:19	694949fa-0129-42db-b02a-2fc1064fe81d	Error	ENOENT: no such file or directory, access 'C:\Users\ROCCO\Desktop\My_Web\NODE.js\LESSON 05\favicon.ico'
+2023-10-06	17:27:37	6128adfc-8f1e-4893-9eed-04381de8c845	Error	ENOENT: no such file or directory, access 'C:\Users\ROCCO\Desktop\My_Web\NODE.js\LESSON 05\new-page.html'
+2023-10-06	17:27:39	b9da3213-2c6e-42ef-8a7c-479f8b8ae2e3	Error	ENOENT: no such file or directory, access 'C:\Users\ROCCO\Desktop\My_Web\NODE.js\LESSON 05\favicon.ico'
+2023-10-06	17:29:04	7e355b1c-5a62-4aa3-8e06-09f5ff206e75	Error	ENOENT: no such file or directory, access 'C:\Users\ROCCO\Desktop\My_Web\NODE.js\LESSON 05\new-page.html'
+2023-10-06	17:29:05	5cd57131-f61e-409c-bc53-825e3736e216	Error	ENOENT: no such file or directory, access 'C:\Users\ROCCO\Desktop\My_Web\NODE.js\LESSON 05\favicon.ico'
+2023-10-06	17:29:16	675c0588-7cf7-4550-9887-d472e8c79e90	Error	ENOENT: no such file or directory, access 'C:\Users\ROCCO\Desktop\My_Web\NODE.js\LESSON 05\new-page.html'
+2023-10-06	17:29:22	44bccacb-df4b-47b7-a052-66116ef04c77	Error	ENOENT: no such file or directory, access 'C:\Users\ROCCO\Desktop\My_Web\NODE.js\LESSON 05\favicon.ico'
+2023-10-06	17:30:06	08e0cc2b-d609-43d5-9d85-0e114cbfa0e4	Error	ENOENT: no such file or directory, access 'C:\Users\ROCCO\Desktop\My_Web\NODE.js\LESSON 05\favicon.ico'
+2023-10-06	17:30:12	a4f699c5-4632-47f5-a7d2-b6d4b58ff30e	Error	ENOENT: no such file or directory, access 'C:\Users\ROCCO\Desktop\My_Web\NODE.js\LESSON 05\favicon.ico'
+2023-10-06	17:30:21	b822fd65-766a-4726-9531-2c062b58513e	Error	ENOENT: no such file or directory, access 'C:\Users\ROCCO\Desktop\My_Web\NODE.js\LESSON 05\favicon.ico'
+2023-10-06	17:31:05	74a6edf2-1f28-4f5b-83ca-022d5e502cb1	Error	ENOENT: no such file or directory, access 'C:\Users\ROCCO\Desktop\My_Web\NODE.js\LESSON 05\favicon.ico'
+2023-10-06	17:31:13	4d1ef98c-085b-4083-957d-64fd31bc5223	Error	ENOENT: no such file or directory, access 'C:\Users\ROCCO\Desktop\My_Web\NODE.js\LESSON 05\new-page.html'
+2023-10-06	17:31:13	36d08ec3-a994-465d-ab28-68cb5fc19192	Error	ENOENT: no such file or directory, access 'C:\Users\ROCCO\Desktop\My_Web\NODE.js\LESSON 05\favicon.ico'
+2023-10-06	17:31:18	bc959bc8-e8b8-43fd-87d5-f2139a8731bb	Error	ENOENT: no such file or directory, access 'C:\Users\ROCCO\Desktop\My_Web\NODE.js\LESSON 05\favicon.ico'
+2023-10-06	17:31:27	e9fdc3ec-2510-420c-8c92-d10ee3cd9f87	Error	ENOENT: no such file or directory, access 'C:\Users\ROCCO\Desktop\My_Web\NODE.js\LESSON 05\favicon.ico'
+2023-10-06	17:31:40	d2625b14-805e-4568-a21c-8f2f0202e555	Error	ENOENT: no such file or directory, access 'C:\Users\ROCCO\Desktop\My_Web\NODE.js\LESSON 05\favicon.ico'
+2023-10-06	17:32:01	62a88006-1d13-4b94-b706-e84b8d3e49df	Error	ENOENT: no such file or directory, access 'C:\Users\ROCCO\Desktop\My_Web\NODE.js\LESSON 05\views\views\subdir\index.html'
+2023-10-06	17:32:02	a38a5728-a20e-4d4e-b87c-45222e9b5298	Error	ENOENT: no such file or directory, access 'C:\Users\ROCCO\Desktop\My_Web\NODE.js\LESSON 05\favicon.ico'
+2023-10-06	17:32:08	f42729b8-1ec3-45c0-8b7e-25d622df9bf1	Error	ENOENT: no such file or directory, access 'C:\Users\ROCCO\Desktop\My_Web\NODE.js\LESSON 05\favicon.ico'
+2023-10-06	17:43:44	7c0e5e3f-620b-41bf-990f-ae19f70e16df	Error	ENOENT: no such file or directory, access 'C:\Users\ROCCO\Desktop\My_Web\NODE.js\LESSON 05\views\views\subdir\index.html'
+2023-10-06	17:43:45	fd2afe66-5b58-42e8-a860-9867d888f768	Error	ENOENT: no such file or directory, access 'C:\Users\ROCCO\Desktop\My_Web\NODE.js\LESSON 05\favicon.ico'
+2023-10-06	17:43:59	4d3d69f8-39bc-4efd-b069-def15702ed49	Error	ENOENT: no such file or directory, access 'C:\Users\ROCCO\Desktop\My_Web\NODE.js\LESSON 05\favicon.ico'
+2023-10-06	17:44:18	fb45cf13-cfee-476c-b9fd-732ee9985cd4	Error	ENOENT: no such file or directory, access 'C:\Users\ROCCO\Desktop\My_Web\NODE.js\LESSON 05\views\views\subdir\index.html'
+2023-10-06	17:44:18	f3a968b1-dd2f-43f3-b065-f7b55183032e	Error	ENOENT: no such file or directory, access 'C:\Users\ROCCO\Desktop\My_Web\NODE.js\LESSON 05\favicon.ico'
+2023-10-06	18:03:04	e70084ba-8c00-431f-af4d-b7cd63913e30	Error	ENOENT: no such file or directory, access 'C:\Users\ROCCO\Desktop\My_Web\NODE.js\LESSON 05\favicon.ico'
+2023-10-06	18:03:13	9d5eb316-2089-4d1c-982f-828a3f1cfc95	Error	ENOENT: no such file or directory, access 'C:\Users\ROCCO\Desktop\My_Web\NODE.js\LESSON 05\subdir\index.html'
+2023-10-06	18:03:13	cfc7898b-c8a5-4230-bc22-d67d59fd32af	Error	ENOENT: no such file or directory, access 'C:\Users\ROCCO\Desktop\My_Web\NODE.js\LESSON 05\favicon.ico'
+2023-10-06	18:03:19	58f5081f-d47c-4992-b173-7f0a6801b123	Error	ENOENT: no such file or directory, access 'C:\Users\ROCCO\Desktop\My_Web\NODE.js\LESSON 05\subdir\index.html'
+2023-10-06	18:03:20	20a722e9-a351-46fa-bd50-13f0ed56324d	Error	ENOENT: no such file or directory, access 'C:\Users\ROCCO\Desktop\My_Web\NODE.js\LESSON 05\favicon.ico'
+2023-10-06	18:04:03	db99bf74-71e6-4ca7-ab9f-4601c7e0e605	Error	ENOENT: no such file or directory, access 'C:\Users\ROCCO\Desktop\My_Web\NODE.js\LESSON 05\favicon.ico'
+2023-10-07	06:07:48	957698de-555d-4c63-b31c-bea9716c3da7	Error	ENOENT: no such file or directory, access 'C:\Users\ROCCO\Desktop\My_Web\NODE.js\LESSON 05\favicon.ico'
+2023-10-07	06:08:39	ac5abf84-0060-4fc7-a2de-a1c60dc62964	Error	ENOENT: no such file or directory, access 'C:\Users\ROCCO\Desktop\My_Web\NODE.js\LESSON 05\favicon.ico'
+2023-10-07	06:09:30	eacf9227-ad6f-472f-88a1-0b693bb2b6d8	Error	ENOENT: no such file or directory, access 'C:\Users\ROCCO\Desktop\My_Web\NODE.js\LESSON 05\new-page.html'
+2023-10-07	06:09:32	58e873bb-fe89-4da3-aadd-3568b911ff88	Error	ENOENT: no such file or directory, access 'C:\Users\ROCCO\Desktop\My_Web\NODE.js\LESSON 05\favicon.ico'
+2023-10-07	06:09:48	b2de8f64-8942-43b4-9608-ae4f7f91adb8	Error	ENOENT: no such file or directory, access 'C:\Users\ROCCO\Desktop\My_Web\NODE.js\LESSON 05\new-page.html'
+2023-10-07	06:09:49	3b7f553f-0e73-400f-b03a-a0c13edb46c4	Error	ENOENT: no such file or directory, access 'C:\Users\ROCCO\Desktop\My_Web\NODE.js\LESSON 05\favicon.ico'
+2023-10-07	06:09:58	002d956f-355a-4d40-a862-02bc3849c52c	Error	ENOENT: no such file or directory, access 'C:\Users\ROCCO\Desktop\My_Web\NODE.js\LESSON 05\favicon.ico'
+2023-10-07	06:10:12	80020406-8b6e-4a22-bb56-968bd9431e59	Error	ENOENT: no such file or directory, access 'C:\Users\ROCCO\Desktop\My_Web\NODE.js\LESSON 05\favicon.ico'
+2023-10-07	06:10:25	0d576c14-26e3-447c-b046-fb79db89da3a	Error	ENOENT: no such file or directory, access 'C:\Users\ROCCO\Desktop\My_Web\NODE.js\LESSON 05\favicon.ico'
+2023-10-07	06:12:27	ebf4aed7-e301-4465-ad75-6aff19aaa7d9	Error	ENOENT: no such file or directory, access 'C:\Users\ROCCO\Desktop\My_Web\NODE.js\LESSON 05\new-page.html'
+2023-10-09	16:55:00	0a290c7c-5f46-4b67-a334-ae4fb783571c	Error: Not allowed by CORs
+2023-10-09	16:55:00	da7fadd0-b93f-449c-8452-b93aaac4c03d	Error: Not allowed by CORs
+2023-10-09	16:55:44	81dbd52f-f4b7-4d7c-84c5-1c8f050aa910	Error: Not allowed by CORs
+2023-10-09	16:55:44	6d642401-6682-4f1f-96a8-1c4fafe02d09	Error: Not allowed by CORs
+2023-10-09	16:59:20	237d1e60-a9d2-43b4-977a-eecfc02a55e7	Error: Not allowed by CORs
+2023-10-09	16:59:20	d0076f91-e5fe-44c4-9772-0ddc8d48fe93	Error: Not allowed by CORs
+2023-10-09	17:01:27	8f64c424-b685-4089-b925-277b0b515a4c	Error: Not allowed by CORs
+2023-10-09	17:01:27	a69746d2-77b2-4e48-a6f0-dbd2dd89427f	Error: Not allowed by CORs
+2023-10-10	12:46:35	258eef42-3b66-4186-aa59-c5e66c224ec2	Error: ENOENT: no such file or directory, stat 'C:\Users\ROCCO\Desktop\My_Web\NODE.js\LESSON 08\routes\views\index.html'
+2023-10-10	12:48:10	8375cb52-fd5b-4814-b66c-59a338bf0709	Error: ENOENT: no such file or directory, stat 'C:\Users\ROCCO\Desktop\My_Web\NODE.js\LESSON 08\routes\views\index.html'
+2023-10-10	12:49:26	75409901-a8a0-4d69-977a-4369f52e22f9	ForbiddenError: Forbidden
+2023-10-10	12:49:30	960ec9d2-d308-483d-aa75-343acb40d031	ForbiddenError: Forbidden
+2023-10-10	12:49:43	0b3b68da-6c5a-4ed0-bc34-34c4bffc5577	Error: ENOENT: no such file or directory, stat 'C:\Users\ROCCO\Desktop\My_Web\NODE.js\LESSON 08\routes\views\new-page.html'
+2023-10-10	12:50:20	7e6279c8-1e0f-4d40-a1fd-c1e9faa8f1e8	ForbiddenError: Forbidden
+2023-10-10	16:26:51	d5c1f9d8-e07d-4464-8a4b-1331b643f0e8	TypeError: res.join is not a function
+2023-10-10	16:27:12	642fd236-bd79-4377-a8aa-30fc149b7d44	TypeError: res.join is not a function
+2023-10-10	16:27:38	fb155465-b40d-4294-9052-7cb9113b82bc	TypeError: res.join is not a function
+2023-10-10	16:27:49	d5ccd9f5-b158-4110-ab94-6b6353e25649	TypeError: res.join is not a function
+2023-10-10	16:27:50	0a5018e1-375c-4ee5-ba11-8e85e4a0536a	TypeError: res.join is not a function
+2023-10-10	16:27:51	b30f7ea2-11fa-4acf-9181-0bd03da2f93a	TypeError: res.join is not a function
+2023-10-10	16:27:51	7432dced-12a0-45ec-a535-a2e7bf97e57a	TypeError: res.join is not a function
+2023-10-10	16:27:51	4fe47698-e12b-448a-96fa-2b476c3eb19b	TypeError: res.join is not a function
+2023-10-10	16:27:51	d9f8c477-e348-470b-896b-3fb690dca140	TypeError: res.join is not a function
+2023-10-10	16:27:51	e781038f-0fa1-41f1-9290-c57d33f1acef	TypeError: res.join is not a function
+2023-10-10	16:27:51	a048116e-bfac-4529-8789-3c02b733bb3a	TypeError: res.join is not a function
+2023-10-10	16:27:59	6a17cc22-b77f-4da7-99ec-44a08e38a458	TypeError: res.join is not a function
+2023-10-11	12:46:54	607b60ee-5e26-44af-b95b-219e508e8013	TypeError: Cannot read properties of undefined (reading 'id')
+2023-10-11	12:50:12	e46b81bd-8d6c-4986-bef1-0b53b00b470a	TypeError: Cannot read properties of undefined (reading 'id')
+2023-10-11	12:53:56	758d4c6d-ff24-4754-8d62-30904ddc1d74	TypeError: Cannot read properties of undefined (reading 'id')
+2023-10-11	12:55:48	c76257d1-c91d-4635-b7e5-93c41e38e117	TypeError: Cannot read properties of undefined (reading 'id')
+2023-10-11	12:55:49	f239ea98-649d-468b-9fed-cfcce80f0d52	TypeError: Cannot read properties of undefined (reading 'id')
+2023-10-11	12:56:30	55550a8d-16eb-4e0a-9a7a-34d88bd5e64b	TypeError: Cannot read properties of undefined (reading 'id')
+2023-10-11	12:57:38	281a898e-63ac-45b4-ad3a-8f36394a25fb	TypeError: Cannot read properties of undefined (reading 'id')
+2023-10-11	12:57:39	c6b51131-9e32-447e-a711-cf505830fd5e	TypeError: Cannot read properties of undefined (reading 'id')
+2023-10-11	14:29:10	19ca6a13-e114-42d7-bc86-fa92de874ee5	SyntaxError: Unexpected token } in JSON at position 18
