@@ -322,3 +322,15 @@
 20231018	14:59:07	0fec79c1-dbd5-42a8-96c9-dd59705bbf55	DELETE	undefined	/employees
 20231018	14:59:14	6af232ab-5131-40d4-b099-6a709e29152f	POST	undefined	/auth
 20231018	14:59:30	e859182a-4e7c-408a-8d2a-e0568d17ca81	DELETE	undefined	/employees
+20231019	11:44:26	90efa0e5-73d8-4ecf-8b50-6d457da660b9	POST	undefined	/auth
+20231019	11:49:39	839288e2-23d6-435b-bf16-af5bc53552a9	POST	undefined	/auth
+20231019	11:54:46	58b186df-5afd-48ce-aa71-0a9115b09d1c	POST	undefined	/auth
+20231019	11:59:20	c9e234d4-7d38-462b-8fee-5ebd76d55b43	POST	undefined	/auth
+20231019	12:01:41	7a07399d-72d0-4aa9-8d3b-2e0dac679f9c	POST	undefined	/auth
+20231019	12:05:50	9b4d9e8a-73c7-4b5a-9f58-b778e9bf0550	POST	undefined	/auth
+20231019	12:09:09	5879bb06-dca3-4ba5-a4ec-33e5dccc1939	POST	undefined	/auth
+20231115	13:16:06	678b795e-ac1a-4ea1-a117-a35496ec9521	OPTIONS	http://localhost:5173	/auth
+20231115	13:16:06	3f8aca9a-2aa9-43b4-8576-774d0d0d7371	POST	http://localhost:5173	/auth
+20231115	14:10:19	48c5eeb5-be7a-4f36-80b1-9c7a38ee56fa	POST	undefined	/register
+20231115	14:10:42	30916204-5cf9-47c5-bf05-feac0d2c48ee	OPTIONS	http://localhost:5173	/auth
+20231115	14:10:42	27b780ca-90c8-4cc6-84f9-1e47634ea649	POST	http://localhost:5173	/auth

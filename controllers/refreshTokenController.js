@@ -1,5 +1,5 @@
-const jwt = require("jsonwebtoken");
 const User = require("../Model/User");
+const jwt = require("jsonwebtoken");
 
 const handleRefreshToken = async (req, res) => {
   const cookies = req.cookies;
@@ -37,6 +37,7 @@ const handleRefreshToken = async (req, res) => {
       if (err) {
         foundUser.refreshToken = [...newRefreshTokenArray]
         const result = await foundUser.save()
+        console.log(result)
       }
     if (err || foundUser.username !== decoded.username)
       return res.sendStatus(403);

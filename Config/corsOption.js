@@ -1,7 +1,7 @@
 const whiteList = [
   "https://www.yourdomain.com",
   "http://127.0.0.1:3100",
-  "http://localhost:3000",
+  "http://localhost:5173",
 ];
 const corsOptions = {
   origin: (origin, callback) => {
